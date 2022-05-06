@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "497b4f6370375bf7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1590424d79a383d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Literature/Optimality.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "206c823c6fb2c796",
+    "type": "split",
+    "children": [
+      {
+        "id": "d50305e72b54fd7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73cbf3ffbe2322fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a39fc127aaa764a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "781d5b0796ebc1cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "068b5727d2897c2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf87aaa08dd416de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Literature/Optimality.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b1590424d79a383d",
+  "lastOpenFiles": [
+    "Literature/Optimality.md",
+    "Literature/Probabilistic machine learning.md",
+    "Literature/Review of Timescale separation of Information processing between sensory and associative regions - Sorrentino et al.,.md",
+    "Literature/PredictiveCoding_Theory_of_Cortical_functions.md",
+    "Literature/Neural state space alignment for magnitude generalization in humans and recurrent networks.md",
+    "Literature/Mathematics for Sciences.md",
+    "Literature/determinants of human compositional generalization.md",
+    "Literature/Context Dependent Behaviour.md",
+    "Ideas/Updates in the stRNN manuscript.md",
+    "Ideas/GPFA model with hemodynamic kernel convolution.md"
+  ]
+}
